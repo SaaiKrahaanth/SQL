@@ -1,18 +1,22 @@
-Preview: Docs Creates a new table within a database.
-CREATE TABLE
- creates a new table.
-Preview: Docs Creates and places new rows into a table.
-INSERT INTO
- adds a new row to a table.
-Preview: Docs Every SQL query will begin with the SELECT command to fetch data from one or more tables.
-SELECT
- queries data from a table.
-Preview: Docs Adds, deletes, modifies or changes the data type of a column in a table.
-ALTER TABLE
- changes an existing table.
-Preview: Docs Loading link description
-UPDATE
- edits a row in a table.
-Preview: Docs Loading link description
-DELETE FROM
- deletes rows from a table.
+### Common SQL Commands and Their Functions
+
+1. **CREATE TABLE**
+   - Creates a new table within a database.
+
+2. **INSERT INTO**
+   - Adds a new row to a table.
+
+3. **SELECT**
+   - Queries data from one or more tables. Every SQL query begins with this command to fetch data.
+
+4. **ALTER TABLE**
+   - Adds, deletes, modifies, or changes the data type of a column in an existing table.
+
+5. **UPDATE**
+   - Edits a row in a table.
+
+6. **DELETE FROM**
+   - Deletes rows from a table.
+
+#### Reference
+[ChatGPT Notes](https://chatgpt.com/share/67650fe0-d9c8-8011-b53f-e1e776339494)
