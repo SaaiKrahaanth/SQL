@@ -1,6 +1,4 @@
-Here’s your complete SQL project in markdown format, designed with proper structure:
 
-```markdown
 # SQL Project: Creating and Modifying a Friends Table
 
 In this project, we will create a `friends` table, insert data, modify it, and remove records.
@@ -18,9 +16,7 @@ CREATE TABLE friends (
     name TEXT,
     birthday DATE
 );
-```
 
----
 
 ## 2. Add Ororo Munroe to `friends`
 
