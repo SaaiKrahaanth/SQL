@@ -14,22 +14,22 @@
 
  # Database Systems Comparison
 
-    ## 1. **MySQL** 
+ ## 1. **MySQL** 
    - **Type**: Relational Database Management System (RDBMS)
    - **Key Feature**: Stores data in tables (rows and columns), uses SQL for querying.
    - **Best For**: Web applications, blogs, content management systems (like WordPress).
 
-    ## 2. **PostgreSQL**
+## 2. **PostgreSQL**
    - **Type**: Relational Database Management System (RDBMS)
    - **Key Feature**: Supports advanced features like JSON, complex queries, and custom data types.
-   - **Best For**: Enterprise applications, complex data structures, and analytics.
-
-    ## 3. **SQLite**
+   - **Best For**: Enterprise applications, complex data structures, and analytics
+   -
+## 3. **SQLite**
    - **Type**: Relational Database Management System (RDBMS)
    - **Key Feature**: Serverless, lightweight, and stores the entire database in a single file.
    - **Best For**: Mobile apps, small projects, embedded systems, or desktop applications.
 
-    ## 4. **MongoDB**
+## 4. **MongoDB**
    - **Type**: NoSQL Database
    - **Key Feature**: Stores data in collections of documents (similar to JSON format), not in tables.
    - **Best For**: Applications needing flexible schema, fast data retrieval, and scalability (like social media apps).
