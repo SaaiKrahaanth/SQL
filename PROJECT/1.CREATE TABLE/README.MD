@@ -17,7 +17,7 @@ CREATE TABLE friends (
     birthday DATE
 );
 
-
+```
 ## 2. Add Ororo Munroe to `friends`
 
 Now, let's add Ororo Munroe, whose birthday is May 30th, 1940.
